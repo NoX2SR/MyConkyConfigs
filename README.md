@@ -15,11 +15,11 @@ It's allways nice to know how your computer feels and what it does. I got inspir
 ## Features
 Currently, the gadgets are able to:
 
-- OS version info woth up time.
+- Show OS version info woth up time.
 - Show CPU, RAM load with top five processes. 
 - Show HDD usage with all inserted removable devices. (everithing mounted to /media/curentuser)
 - Show ethernet status with local and public IP address and geo location information.
-- Bios info
+- Show Bios info
 
 There is much more to be done, like wifi, bluetooth and audio info. Also the scripts should be changed so user name will be detected dynamically. 
 
@@ -31,8 +31,8 @@ conkyx-start.sh will start all Conky instances with their configs. That script c
 
 I made a background according to my moatherboard. There is .xcf file, so you can edit it however you want and replace moatherboard. 
 
-##Usage
+## Usage
 Run it and enjoy it.
 
 ## License
-MIT © [Kosteron]()
+MIT © [NoX2SR]()
